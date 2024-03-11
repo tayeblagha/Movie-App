@@ -2,7 +2,7 @@
 
 ![screenshot](https://github.com/tayeblagha/Movie-App/blob/main/public/img/poster.png?raw=true)
 
-## Installation
+## Installation guide
 
 1. Clone the repo and `cd` into it
 1. `composer install`
